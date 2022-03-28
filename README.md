@@ -1,5 +1,4 @@
-# Hi there 👋
-
+#  你好 | *Hi there* | *Guten Tag* 👋
 
 <!-- **smoggy-P/smoggy-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
