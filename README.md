@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on TUDelft
 - 🌱 I’m currently learning Robotics
 - 💬 Ask me about Jazz and Classic Music
+- 🤔 Unfortunately passed too much time on video games
+<!-- steam-box start -->
+<!-- steam-box end -->
 
 
 # Project
@@ -15,5 +18,3 @@ Here are some ideas to get you started:
 |--|--|
 |![fig1](https://github.com/edmundwsy/RO47005-PDM-Final/blob/master/figs/03.gif)|![fig2](https://user-images.githubusercontent.com/29809038/155034256-cc78ede1-d72b-4444-935b-bdaabe386782.png)|
 
- <!-- steam-box start -->
- <!-- steam-box end -->
