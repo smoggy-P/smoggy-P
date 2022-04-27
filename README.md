@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <!-- steam-box end -->
 
 <a href="https://github.com/smoggy-P">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoggy-P&count_private=true&show_icons=true&show_icons=true&theme=buefy" height=199/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoggy-P&count_private=true&show_icons=true&show_icons=true&theme=buefy" height=180/>
 </a>
 <a href="https://github.com/smoggy-P">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoggy-P&hide=javascript,html,cmake,jupyter%20notebook&layout=compact&theme=buefy" height=199/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoggy-P&hide=javascript,html,cmake,jupyter%20notebook&layout=compact&theme=buefy" height=180/>
 </a>
 
 
