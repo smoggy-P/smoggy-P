@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 |![fig1](https://github.com/edmundwsy/RO47005-PDM-Final/blob/master/figs/03.gif)|![fig2](https://user-images.githubusercontent.com/29809038/155034256-cc78ede1-d72b-4444-935b-bdaabe386782.png)|
 
 <a href="https://github.com/smoggy-P">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoggy-P&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=smoggy-P&count_private=true&show_icons=true&show_icons=true&theme=buefy" height=150/>
 </a>
 <a href="https://github.com/smoggy-P">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoggy-P&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoggy-P&hide=javascript,html,cmake,jupyter%20notebook&layout=compact&theme=buefy" height=150/>
 </a>
