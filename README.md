@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 🚓 Grand Theft Auto V               🕘 348 hrs 50 mins
 🧟 Left 4 Dead 2                    🕘 148 hrs 53 mins
 🎮 Stardew Valley                   🕘 134 hrs 3 mins
-🎮 ELDEN RING                       🕘 131 hrs 49 mins
+🎮 ELDEN RING                       🕘 132 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
