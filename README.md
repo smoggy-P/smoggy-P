@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 🔫 Counter-Strike: Global Offensive 🕘 924 hrs 58 mins
 🚓 Grand Theft Auto V               🕘 348 hrs 50 mins
 🧟 Left 4 Dead 2                    🕘 148 hrs 53 mins
-🎮 ELDEN RING                       🕘 139 hrs 6 mins
+🎮 ELDEN RING                       🕘 139 hrs 39 mins
 🎮 Stardew Valley                   🕘 134 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
