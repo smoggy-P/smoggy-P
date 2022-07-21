@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 # Project
 
-|[An implementation of k-PRM path planner with corridor-based trajectory optimization](https://github.com/edmundwsy/RO47005-PDM-Final)|<img src="https://github.com/edmundwsy/RO47005-PDM-Final/blob/master/figs/03.gif"  width=700 />|
+|[An implementation of k-PRM path planner with corridor-based trajectory optimization](https://github.com/edmundwsy/RO47005-PDM-Final)|<img src="https://github.com/edmundwsy/RO47005-PDM-Final/blob/master/figs/03.gif"  width=600 />|
 |:--:|:--:|
-|[RAST corridor planning](https://github.com/smoggy-P/RAST_corridor_planning )|<img src="https://github.com/edmundwsy/edmundwsy/blob/master/figs/rast.gif" alt="rast" width=700 />|
+|[RAST corridor planning](https://github.com/smoggy-P/RAST_corridor_planning )|<img src="https://github.com/edmundwsy/edmundwsy/blob/master/figs/rast.gif" alt="rast" width=600 />|
 |Piano Sonata No. 1 in G minor (page 1)|<img src="https://user-images.githubusercontent.com/29809038/155034256-cc78ede1-d72b-4444-935b-bdaabe386782.png"  width=400 />|
 
 
