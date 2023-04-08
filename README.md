@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 #### <a href="https://gist.github.com/f3619d96b66a65726652b4fb75a18fe9" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 943 hrs 33 mins
-🚓 Grand Theft Auto V               🕘 384 hrs 23 mins
+🚓 Grand Theft Auto V               🕘 385 hrs 24 mins
 🧟 Left 4 Dead 2                    🕘 148 hrs 53 mins
 🎮 ELDEN RING                       🕘 145 hrs 17 mins
 🎮 Stardew Valley                   🕘 134 hrs 8 mins
