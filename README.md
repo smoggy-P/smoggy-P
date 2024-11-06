@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I'm currently working on TUDelft
+- 🔭 I'm currently a Ph.D. student in TUDelft
 - 🌱 I'm currently learning Robotics
-- 💬 Ask me about Jazz and Classic Music
+- 💬 Ask me about RnB and Classic Music
 - 🤔 Unfortunately spent too much time on video games
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/f3619d96b66a65726652b4fb75a18fe9" target="_blank">🎮 Steam playtime leaderboard</a>
